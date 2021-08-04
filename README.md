@@ -32,7 +32,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="postman"/></a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" /> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"  /> </a>
-    <a href="https://expressjs.com" target="_blank">Express<img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="express"/> </a>
+    <span>Express <img src="https://img.icons8.com/windows/48/000000/node-js.png" alt="express"/> </span>
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
