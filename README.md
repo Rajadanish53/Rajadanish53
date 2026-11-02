@@ -197,24 +197,21 @@ Image-authenticity project. The pipeline extracts **EXIF** metadata and preproce
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajadanish53&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajadanish53&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=C9D1D9" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajadanish53&theme=github_dark" alt="Profile details" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajadanish53&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajadanish53&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajadanish53&theme=github_dark" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rajadanish53&theme=react&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajadanish53&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajadanish53&theme=github_dark" alt="Most used language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajadanish53&theme=github_dark&utcOffset=5" alt="Productive time" />
 
 </div>
 
-Top languages measure public code only. They do not measure the private healthcare and trading work.
+These cards count public GitHub activity only. They do not include the private healthcare and trading work.
 
 </details>
 
